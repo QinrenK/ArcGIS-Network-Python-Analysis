@@ -9,7 +9,7 @@ arcpy.env.overwriteOutput = True
 arcpy.CheckOutExtension("Spatial")
 
 #Local variables for 1b
-nelu95__2_ = "C:\\Users\\q5kang\\
+nelu95__2_ = "C:\\Users\\q5kang"
 
 ## Insert your local GIS file here to get the highest point, at least 2 suitability layers are needed.
 
